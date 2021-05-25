@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="playing.with.clikt.EchoCommandTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-05-25T11:53:34" hostname="TAG009442061515" time="0.089">
+  <properties/>
+  <testcase name="should print the provided string" classname="playing.with.clikt.EchoCommandTest" time="0.089"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
